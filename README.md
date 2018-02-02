@@ -1,1 +1,1 @@
-run : npm add/server
+run : npm app/server
